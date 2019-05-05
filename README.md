@@ -28,3 +28,4 @@ Weapons use a standard control UnityEvents, allowing for individualized control 
 - OnWeaponButtonReleased
 - OnWeaponCooldownComplete
 - OnWeaponDelayComplete
+- Movement interruption
