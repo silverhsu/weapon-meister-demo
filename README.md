@@ -29,3 +29,8 @@ Weapons use a standard control UnityEvents, allowing for individualized control 
 - OnWeaponCooldownComplete
 - OnWeaponDelayComplete
 - Movement interruption
+
+To Be Implemented
+- Instanced controls for up to 4 players
+- Environmental traps: Spikes, Sand, and Bumpers
+- Enemy Hurtboxes
